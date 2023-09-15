@@ -1,1 +1,52 @@
-
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Front End",
+            "description": "Todos os contudos relacionados a Front End",
+            "color": "#6BD1FF"
+        },
+        {
+            "id": 2,
+            "name": "Back End",
+            "description": "Todos os vídeos que estou usando para estudar Back End ",
+            "color": "#69953B"
+        },
+        {
+            "id": 3,
+            "name": "Mobile",
+            "description": "Conteúdo que venho estudando sobre React Native e Flutter",
+            "color": "#FFBA05"
+        },
+        {
+            "id": 4,
+            "name": "Infraestrutura",
+            "description": "Tudo que estou aprendendo sobre Docker e muito mais",
+            "color": "#9CD33B"
+        },
+        {
+            "id": 5,
+            "name": "Data Science",
+            "description": "Coisas de R e Python que venho aprendendo",
+            "color": "#9CD33B"
+        },
+        {
+            "id": 6,
+            "name": "Design & UX",
+            "description": "Ferramentas e técnicas que estudo sobre UX e Design",
+            "color": "#DC6EBE"
+        },
+        {
+            "id": 7,
+            "name": "Marketing Digital",
+            "description": "A forma de vender a monetizar minhas ideias",
+            "color": "#6B5BE"
+        },
+        {
+            "id": 8,
+            "name": "Inovação & Gestão",
+            "description": "Como manter o time feliz e muito mais",
+            "color": "#FF8C2A"
+        }
+    ]
+}
